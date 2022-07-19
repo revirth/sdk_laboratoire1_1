@@ -17,7 +17,7 @@ static class Program
             //Si l'utilisateur tape note
             if (input?.ToUpperInvariant() == "NOTE")
             {
-                //On demande en boucle la coBnversion 
+                //On demande en boucle la coBnversion  
                 while (true)
                 {
                     Console.Write("Conversion à faire : ");
